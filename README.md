@@ -1,2 +1,2 @@
 # WuLang
-WuLang is programming languge, it have VM and compiller for execute your code
+WuLang is a programming language, it has VM and compiler to execute your code
